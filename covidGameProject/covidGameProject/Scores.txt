@@ -1,0 +1,6 @@
+[Name: fff, Score: 50}]
+[Name: adasd, Score: 50}]
+[Name: James, Score: 30}]
+[Name: asdasdasd, Score: 30}]
+[Name: hhh, Score: 40}]
+[Name: sad, Score: 30}]
